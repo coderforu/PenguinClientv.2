@@ -13,7 +13,7 @@
 </h4>
 <h4 align="center">Replit deployment no longer supported
 </h4>
-<img src="https://cdn.discordapp.com/attachments/952288902494965811/1006655724971102208/unknown.png">
+<img src="file:///home/chronos/u-1d9cca75d9797963ee5e720f8f01f45e1de58684/MyFiles/Downloads/server-icon.png">
 <h2 align="center">Projects Used
 </h2>
 <ul>
