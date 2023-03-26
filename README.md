@@ -1,6 +1,6 @@
 <h2 align="center">PenguinClient
 </h2>
-<h3 align="center">The old repository for PenguinClient. Rewritten and open-source version <a href="https://github.com/coderforu/PenguinClient>here</a>
+<h3 align="center">The old repository for PenguinClient. Rewritten and open-source version <a href="https://github.com/coderforu/PenguinClient">here</a>
 </h3>
 <h4 align="center">Client link:
   <a href="https://precisionclient.vercel.app">https://precisionclient.vercel.app
