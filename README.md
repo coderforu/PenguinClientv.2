@@ -18,7 +18,7 @@
 </h2>
 <ul>
   <li>
-    Fork of <a href="https://github.com/LAX1DUDE/eaglercraft">Eaglercraft
+    <p>Fork of Precsion Client</P>
     </a>
   </li>
   <li>
