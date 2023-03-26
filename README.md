@@ -43,7 +43,7 @@
   <li>
     <a href="https://www.planetminecraft.com/texture-pack/bare-bones/">Bare Bones</a> for the Bare Bones texture pack
   </li>
-  <li>Note: If I used your project and forgot to credit you here, please contact me at etcher#1849 on discord
+  <li>Note: If I used your project and forgot to credit you here, please contact me at Jackson_lol#7571 on discord
   </li>
 </ul>
 <h2 align="center">Features
