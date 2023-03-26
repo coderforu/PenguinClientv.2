@@ -10,9 +10,6 @@
   <a href="https://github.com/etcherfx/precisionclient/releases">here
   </a>
 </h4>
-<h4 align="center">Join the
-  <a href="https://discord.gg/agFak6frsj">Discord
-  </a> server for any questions
 </h4>
 <h4 align="center">Replit deployment no longer supported
 </h4>
